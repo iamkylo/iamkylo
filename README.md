@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamkylo
-- 👀 I’m interested in web3 tech with cybersec.
+- 👀 I’m interested in web3 tech with cybersec & blockchain.
 - 🌱 I’m currently learning js.
 - 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: HE/HIM
