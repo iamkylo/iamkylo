@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @iamkylo
-- 👀 I’m interested in web3 tech with cybersec & blockchain.
-- 💞️ I’m looking to collaborate on ...
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: THAT YOU CAN SHARE.
-
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on web3 tech with cybersec & blockchain.<br>👯 I’m looking to collaborate on ....<br>🤝 I’m looking for help with....<br>🌱 I’m currently learning .. <br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
